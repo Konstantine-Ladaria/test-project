@@ -1,0 +1,26 @@
+}
+.ims{transition:0.1s;}
+svg:hover .ims{
+    fill:black;
+}
+.iims{transition:0.2s;}
+svg:hover .iims{
+    fill:black;
+}
+.iiims{transition:0.3s;}
+svg:hover .iiims{
+    fill:black;
+}
+.ivms{transition:0.4s;}
+svg:hover .ivms{
+    fill:black;
+}.vms{transition:0.5s;}
+svg:hover .vms{
+    fill:black;
+}.vims{transition:0.6s;}
+svg:hover .vims{
+    fill:black;
+}.viims{transition:0.7s;}
+svg:hover .viims{
+    fill:black;
+}
