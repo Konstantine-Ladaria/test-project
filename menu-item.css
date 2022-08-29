@@ -1,0 +1,37 @@
+.menu-item {
+    color: red;
+    transition: color 0.35s
+}
+.menu-item:hover {
+    color: yellow;
+}
+.menu-button {
+    background-color: transparent;
+    border-style:none;
+    cursor:pointer;
+    margin-top: 10px;
+    margin-left: 0px;
+    border-radius: 5px;
+    transition: box-shadow 0.3s;
+    text-align: left;
+    border-width: 3px;
+    height: 35px;
+    width: 200PX;
+}
+.menu-button:hover {
+    box-shadow: 5px 5px 5px gray;
+}
+li {
+    display: ;
+}
+.bulet {
+    font-size: 25px;
+    color:rgb(49, 49, 47);
+    transition: color 0.35;
+}
+.bulet:hover {
+    color: transparent;
+}
+menu {
+    padding-inline-start: 0px;
+}
